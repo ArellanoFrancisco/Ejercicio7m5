@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fortaleza de Contraseña</string>
+    <string name="text1"> Ingrese una contraseña:</string>
+    <string name="hint">Contraseña</string>
+    <string name="button">Test</string>
+    <string name="text2">Fortaleza: Desconocida</string>
+</resources>

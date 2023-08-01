@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="weak_color">#FF0000</color> <!-- Rojo para contraseña débil -->
+    <color name="medium_color">#FFA500</color> <!-- Naranja para contraseña media -->
+    <color name="strong_color">#00FF00</color> <!-- Verde para contraseña fuerte -->
+</resources>
